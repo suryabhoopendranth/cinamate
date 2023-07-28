@@ -16,7 +16,7 @@ export const Footer = () => {
             <a
               href="https://www.instagram.com/suryyaaa_a/"
               target="_blank"
-              rel="noreferror"
+              rel="noreferrer"
               className="mr-4 hover:underline md:mr-6 "
             >
               Instagram
@@ -26,7 +26,7 @@ export const Footer = () => {
             <a
               href="https://www.linkedin.com/in/surya-narayanan-79a446259/"
               target="_blank"
-              rel="noreferror"
+              rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
             >
               LinkedIn
@@ -36,7 +36,7 @@ export const Footer = () => {
             <a
               href="https://www.youtube.com/"
               target="_blank"
-              rel="noreferror"
+              rel="noreferrer"
               className="mr-4 hover:underline md:mr-6"
             >
               Youtube
@@ -46,7 +46,7 @@ export const Footer = () => {
             <a
               href="https://github.com/suryabhoopendranth"
               target="_blank"
-              rel="noreferror"
+              rel="noreferrer"
               className="hover:underline"
             >
               Github
