@@ -14,7 +14,7 @@ export const Footer = () => {
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
           <li>
             <a
-              href="#"
+              href="https://www.instagram.com/suryyaaa_a/"
               rel="noreferror"
               target="_blank"
               className="mr-4 hover:underline md:mr-6 "
@@ -24,7 +24,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/surya-narayanan-79a446259/"
               rel="noreferror"
               target="_blank"
               className="mr-4 hover:underline md:mr-6"
@@ -34,7 +34,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://www.youtube.com/"
               rel="noreferror"
               target="_blank"
               className="mr-4 hover:underline md:mr-6"
@@ -44,7 +44,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="https://github.com/suryabhoopendranth"
               target="_blank"
               rel="noreferror"
               className="hover:underline"
